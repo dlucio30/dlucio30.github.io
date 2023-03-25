@@ -175,7 +175,7 @@ img {
 }
 
 .nav__toggle {
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   cursor: pointer;
 }
 
@@ -481,6 +481,26 @@ img {
 
 .skills__react{
   width: 20%;
+}
+
+.skills__sql{
+  width: 60%;
+}
+
+.skills__ccna{
+  width: 70%;
+}
+
+.skills__soporte{
+  width: 80%;
+}
+
+.skills__sql{
+  width: 60%;
+}
+
+.skills__mttopc{
+  width: 90%;
 }
 
 .skills__photoshop{
